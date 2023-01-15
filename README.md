@@ -1,5 +1,5 @@
 ## 🚀 Mahesafy
-20 Years old, full stack developer, about 10 Years of programming skill, learning from Youtube and google
+20 Years old, full stack developer, about 10 Years of programming experience, learn it all from Youtube and google
 
 ## My Recent Project
 
