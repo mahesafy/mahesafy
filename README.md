@@ -1,16 +1,21 @@
-### Hi there 👋
+## 🚀 Mahesafy
+20 Years old full stack developer, about 10 Years of programming skill, learning from Youtube and google
 
-<!--
-**mahesafy/mahesafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Recent Project
 
-Here are some ideas to get you started:
+ - [Aplikasi Pendataan Laptop](https://github.com/mahesafy/PEMWEBUASSem1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Activity
+👩‍💻 I'm currently working on last semester project
+
+🧠 I'm currently learning js framework
+
+💬 Ask me about anything
+
+⚡️ Fun fact im a human
+
+
+## Contact
+
+How to reach me, email me at mahesaramadhan11@gmail.com.
+
