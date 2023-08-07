@@ -6,7 +6,7 @@
  - [Aplikasi Pendataan Laptop](https://github.com/mahesafy/PEMWEBUASSem1)
 
 ## My Activity
-👩‍💻 I'm currently working on last semester project
+👩‍💻 I'm currently working on CSA PROJECT
 
 🧠 I'm currently learning js framework
 
