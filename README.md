@@ -4,7 +4,7 @@
 ## My Recent Project
 
  - [Aplikasi Pendataan Laptop](https://github.com/mahesafy/PEMWEBUASSem1)
- - [Aplikasi Pembayaran SPP Sekolah]([https://github.com/mahesafy/PEMWEBUASSem1](https://github.com/mahesafy/SPP-WEB-CSA)
+ - [Aplikasi Pembayaran SPP Sekolah](https://github.com/mahesafy/SPP-WEB-CSA)
 ## My Activity
 👩‍💻 I'm currently working on CSA PROJECT
 
