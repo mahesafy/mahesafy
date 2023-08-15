@@ -6,7 +6,7 @@
  - [Aplikasi Pendataan Laptop](https://github.com/mahesafy/PEMWEBUASSem1)
  - [Aplikasi Pembayaran SPP Sekolah](https://github.com/mahesafy/SPP-WEB-CSA)
 ## My Activity
-👩‍💻 I'm currently working on CSA PROJECT
+👩‍💻 I'm currently working on E Commerce Project
 
 🧠 I'm currently learning js framework
 
